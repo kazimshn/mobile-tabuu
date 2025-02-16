@@ -1,0 +1,82 @@
+[
+    {
+      "word": "Kuantum",
+      "banned": ["Fizik", "Atom", "Parçacık", "Dalga", "Enerji"]
+    },
+    {
+      "word": "Paradigma",
+      "banned": ["Değişim", "Model", "Düşünce", "Çerçeve", "Bilim"]
+    },
+    {
+      "word": "Postmodernizm",
+      "banned": ["Sanat", "Düşünce", "Kültür", "Modern", "Eleştiri"]
+    },
+    {
+      "word": "Antropoloji",
+      "banned": ["İnsan", "Kültür", "Toplum", "Araştırma", "Etnik"]
+    },
+    {
+      "word": "Ekosistem",
+      "banned": ["Doğa", "Canlı", "Denge", "Çevre", "Besin"]
+    },
+    {
+      "word": "Meta",
+      "banned": ["Üst", "Soyut", "Bilgi", "Teori", "Ötesi"]
+    },
+    {
+      "word": "Distopya",
+      "banned": ["Karanlık", "Gelecek", "Toplum", "Kaos", "Kurgu"]
+    },
+    {
+      "word": "Fütürizm",
+      "banned": ["Gelecek", "Teknoloji", "Sanat", "Yenilik", "Modern"]
+    },
+    {
+      "word": "Diyalektik",
+      "banned": ["Tez", "Antitez", "Felsefe", "Hegel", "Tartışma"]
+    },
+    {
+      "word": "Holistik",
+      "banned": ["Bütün", "Parça", "Yaklaşım", "Sistem", "Genel"]
+    },
+    {
+      "word": "Entropi",
+      "banned": ["Enerji", "Düzensizlik", "Fizik", "Isı", "Termodinamik"]
+    },
+    {
+      "word": "Semiotik",
+      "banned": ["İşaret", "Dil", "Anlam", "Gösterge", "Yorum"]
+    },
+    {
+      "word": "Sinerji",
+      "banned": ["Ekip", "İşbirliği", "Güç", "Bütünlük", "Verim"]
+    },
+    {
+      "word": "Paradoks",
+      "banned": ["Çelişki", "Mantık", "Anlam", "Zıtlık", "Düşünce"]
+    },
+    {
+      "word": "Moleküler",
+      "banned": ["Atom", "Bağ", "Kimya", "Reaksiyon", "Hücre"]
+    },
+    {
+      "word": "Etnosentrizm",
+      "banned": ["Kültür", "Önyargı", "Halk", "Toplum", "Üstünlük"]
+    },
+    {
+      "word": "Kriptografi",
+      "banned": ["Şifre", "Güvenlik", "Kod", "Matematik", "Bilgi"]
+    },
+    {
+      "word": "Sosyoloji",
+      "banned": ["Toplum", "Birey", "Davranış", "Kültür", "Bilim"]
+    },
+    {
+      "word": "Epistemoloji",
+      "banned": ["Bilgi", "Felsefe", "Doğruluk", "Gerçek", "Teori"]
+    },
+    {
+      "word": "Sentetik",
+      "banned": ["Yapay", "Doğal", "Malzeme", "Kimyasal", "Endüstri"]
+    }
+]

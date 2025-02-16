@@ -1,0 +1,82 @@
+[
+    {
+      "word": "Psikoloji",
+      "banned": ["Bilinç", "Davranış", "Terapi", "Ruh", "Beyin"]
+    },
+    {
+      "word": "Ekonomi",
+      "banned": ["Para", "Piyasa", "Finans", "Borsa", "Ticaret"]
+    },
+    {
+      "word": "Strateji",
+      "banned": ["Plan", "Taktik", "Oyun", "Hamle", "Başarı"]
+    },
+    {
+      "word": "Demokrasi",
+      "banned": ["Seçim", "Özgürlük", "Hükümet", "Oy", "Sistem"]
+    },
+    {
+      "word": "Enerji",
+      "banned": ["Elektrik", "Güç", "Yakıt", "Güneş", "Isı"]
+    },
+    {
+      "word": "Sanat",
+      "banned": ["Müzik", "Resim", "Heykel", "Eser", "Yaratıcılık"]
+    },
+    {
+      "word": "Hukuk",
+      "banned": ["Adalet", "Mahkeme", "Avukat", "Hak", "Yasa"]
+    },
+    {
+      "word": "Tarih",
+      "banned": ["Geçmiş", "Olay", "Zaman", "Kronoloji", "Kitap"]
+    },
+    {
+      "word": "Lider",
+      "banned": ["Başkan", "Yönetim", "Karar", "İleri", "Ekip"]
+    },
+    {
+      "word": "Atmosfer",
+      "banned": ["Hava", "Basınç", "Katman", "Oksijen", "Dünya"]
+    },
+    {
+      "word": "Matematik",
+      "banned": ["Sayı", "Denklem", "İşlem", "Geometri", "Analiz"]
+    },
+    {
+      "word": "Felsefe",
+      "banned": ["Düşünce", "Sorgulamak", "Teori", "Platon", "Varoluş"]
+    },
+    {
+      "word": "Robot",
+      "banned": ["Makine", "Yapay", "Program", "Otomasyon", "Gelecek"]
+    },
+    {
+      "word": "Astronomi",
+      "banned": ["Yıldız", "Gezegen", "Evrim", "Uzay", "Teleskop"]
+    },
+    {
+      "word": "Kimya",
+      "banned": ["Element", "Molekül", "Reaksiyon", "Laboratuvar", "Formül"]
+    },
+    {
+      "word": "Dilbilgisi",
+      "banned": ["Kelime", "Cümle", "Fiil", "Özne", "Dil"]
+    },
+    {
+      "word": "Karikatür",
+      "banned": ["Çizgi", "Mizah", "Resim", "Komik", "Gazete"]
+    },
+    {
+      "word": "Fizik",
+      "banned": ["Kuvvet", "Hareket", "Enerji", "Madde", "Atom"]
+    },
+    {
+      "word": "Hormon",
+      "banned": ["Vücut", "Denge", "Kimyasal", "Salgı", "Beyin"]
+    },
+    {
+      "word": "Veri",
+      "banned": ["Bilgi", "İstatistik", "Rapor", "Sayı", "Analiz"]
+    }
+]

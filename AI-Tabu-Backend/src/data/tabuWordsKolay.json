@@ -1,0 +1,186 @@
+[
+  {
+    "word": "Bilgisayar",
+    "banned": ["Ekran", "Klavye", "Fare", "İnternet", "Laptop"]
+  },
+  {
+    "word": "Futbol",
+    "banned": ["Top", "Gol", "Kaleci", "Saha", "Maç"]
+  },
+  {
+    "word": "Telefon",
+    "banned": ["Arama", "Mesaj", "Şarj", "Numara", "Ekran"]
+  },
+  {
+    "word": "Kitap",
+    "banned": ["Sayfa", "Roman", "Okumak", "Yazar", "Kütüphane"]
+  },
+  {
+    "word": "Uçak",
+    "banned": ["Pilot", "Kanat", "Havalimanı", "Kokpit", "Yolcu"]
+  },
+  {
+    "word": "Müzik",
+    "banned": ["Şarkı", "Nota", "Melodi", "Ritim", "Sanatçı"]
+  },
+  {
+    "word": "Köpek",
+    "banned": ["Havlamak", "Tas", "Kuyruk", "Sadık", "Evcil"]
+  },
+  {
+    "word": "Deniz",
+    "banned": ["Su", "Kum", "Plaj", "Yüzmek", "Dalga"]
+  },
+  {
+    "word": "Saat",
+    "banned": ["Dakika", "Zaman", "Kol", "Çalar", "Alarm"]
+  },
+  {
+    "word": "Araba",
+    "banned": ["Tekerlek", "Motor", "Benzin", "Sürücü", "Direksiyon"]
+  },
+  {
+    "word": "Yemek",
+    "banned": ["Mutfak", "Tat", "Pişirmek", "Kaşık", "Bıçak"]
+  },
+  {
+    "word": "Fenerbahçe",
+    "banned": ["Sarı", "Lacivert", "Futbol", "Taraftar", "Kadıköy"]
+  },
+  {
+    "word": "Gözlük",
+    "banned": ["Çerçeve", "Lens", "Göz", "Görmek", "Numara"]
+  },
+  {
+    "word": "Balık",
+    "banned": ["Deniz", "Ağ", "Olta", "Su", "Akvaryum"]
+  },
+  {
+    "word": "Kahve",
+    "banned": ["Süt", "Şeker", "Fincan", "Sabah", "Türk"]
+  },
+  {
+    "word": "Gitar",
+    "banned": ["Tel", "Akustik", "Çalmak", "Müzik", "Elektro"]
+  },
+  {
+    "word": "Bebek",
+    "banned": ["Anne", "Biberon", "Ağlamak", "Emzik", "Beşik"]
+  },
+  {
+    "word": "Elma",
+    "banned": ["Meyve", "Ağaç", "Kırmızı", "Yeşil", "Yemek"]
+  },
+  {
+    "word": "Dağ",
+    "banned": ["Tepe", "Yüksek", "Kar", "Tırmanış", "Orman"]
+  },
+  {
+    "word": "Kamera",
+    "banned": ["Lens", "Video", "Çekim", "Fotoğraf", "Tripod"]
+  },
+  {
+    "word": "Karpuz",
+    "banned": ["Meyve", "Kırmızı", "Yaz", "Tatlı", "Tohum"]
+  },
+  {
+    "word": "Banka",
+    "banned": ["Para", "Hesap", "Kredi", "ATM", "Şube"]
+  },
+  {
+    "word": "Televizyon",
+    "banned": ["Ekran", "Kumanda", "Kanal", "Dizi", "Film"]
+  },
+  {
+    "word": "Ayakkabı",
+    "banned": ["Bağcık", "Koşu", "Bot", "Topuklu", "Terlik"]
+  },
+  {
+    "word": "Kalem",
+    "banned": ["Yazı", "Defter", "Mürekkep", "Kağıt", "Tükenmez"]
+  },
+  {
+    "word": "Güneş",
+    "banned": ["Isı", "Işık", "Gökyüzü", "Sarı", "Gündüz"]
+  },
+  {
+    "word": "Ay",
+    "banned": ["Gece", "Yıldız", "Uydu", "Dünya", "Krater"]
+  },
+  {
+    "word": "Anahtar",
+    "banned": ["Kapı", "Kilitlemek", "Metal", "Ev", "Çanta"]
+  },
+  {
+    "word": "Buzdolabı",
+    "banned": ["Soğuk", "Dondurucu", "Mutfak", "Elektrik", "Kapı"]
+  },
+  {
+    "word": "Film",
+    "banned": ["Sinem", "Kamera", "Oyuncu", "Senaryo", "Yönetmen"]
+  },
+  {
+    "word": "Karpuz",
+    "banned": ["Meyve", "Kırmızı", "Yaz", "Tatlı", "Tohum"]
+  },
+  {
+    "word": "Kuş",
+    "banned": ["Uçmak", "Tüy", "Kanat", "Yuva", "Cik"]
+  },
+  {
+    "word": "Laptop",
+    "banned": ["Ekran", "Bilgisayar", "Klavye", "İnternet", "Şarj"]
+  },
+  {
+    "word": "Harita",
+    "banned": ["Dünya", "Yol", "Pusula", "Şehir", "Navigasyon"]
+  },
+  {
+    "word": "Köprü",
+    "banned": ["Deniz", "Geçiş", "İstanbul", "Trafik", "Bağlantı"]
+  },
+  {
+    "word": "Keman",
+    "banned": ["Yay", "Nota", "Müzik", "Çalmak", "Stradivarius"]
+  },
+  {
+    "word": "Gemi",
+    "banned": ["Deniz", "Yolcu", "Motor", "Kaptan", "Liman"]
+  },
+  {
+    "word": "Taksi",
+    "banned": ["Sarı", "Ulaşım", "Şoför", "Durak", "Yolcu"]
+  },
+  {
+    "word": "Buz",
+    "banned": ["Soğuk", "Su", "Kış", "Kaymak", "Bardak"]
+  },
+  {
+    "word": "Saat",
+    "banned": ["Dakika", "Zaman", "Kol", "Çalar", "Alarm"]
+  },
+  {
+    "word": "Meyve",
+    "banned": ["Sebze", "Tatlı", "Ağaç", "Elma", "Portakal"]
+  },
+  {
+    "word": "Dondurma",
+    "banned": ["Tatlı", "Soğuk", "Külah", "Çikolata", "Vanilya"]
+  },
+  {
+    "word": "Şapka",
+    "banned": ["Kafa", "Gölge", "Yaz", "Bere", "Baş"]
+  },
+  {
+    "word": "Yastık",
+    "banned": ["Uyku", "Koltuk", "Pamuk", "Yorgan", "Rahat"]
+  },
+  {
+    "word": "Şemsiye",
+    "banned": ["Yağmur", "Gölge", "Su", "Açmak", "Kapamak"]
+  },
+  {
+    "word": "Kedi",
+    "banned": ["Miyav", "Tüy", "Evcil", "Tırmalamak", "Sevmek"]
+  }
+]
